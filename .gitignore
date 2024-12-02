@@ -1,5 +1,7 @@
+
 *.pyc
 *.pyo
 *.env
 venv/
+
 db.sqlite3
